@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vienna coffee with Chantilly
+* source:	https://sketchfab.com/3d-models/vienna-coffee-with-chantilly-cd87fcf156eb4379b3f57e738d82d4f3
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vienna coffee with Chantilly" (https://sketchfab.com/3d-models/vienna-coffee-with-chantilly-cd87fcf156eb4379b3f57e738d82d4f3) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
